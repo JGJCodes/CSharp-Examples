@@ -1,0 +1,5 @@
+C:\Users\jorge\source\repos\EdadLegal\EdadLegal\bin\Debug\EdadLegal.exe.config
+C:\Users\jorge\source\repos\EdadLegal\EdadLegal\bin\Debug\EdadLegal.exe
+C:\Users\jorge\source\repos\EdadLegal\EdadLegal\bin\Debug\EdadLegal.pdb
+C:\Users\jorge\source\repos\EdadLegal\EdadLegal\obj\Debug\EdadLegal.exe
+C:\Users\jorge\source\repos\EdadLegal\EdadLegal\obj\Debug\EdadLegal.pdb

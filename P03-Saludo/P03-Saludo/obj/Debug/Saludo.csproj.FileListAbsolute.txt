@@ -1,0 +1,6 @@
+C:\Users\jorge\source\repos\P03-Saludo\P03-Saludo\bin\Debug\Saludo.exe.config
+C:\Users\jorge\source\repos\P03-Saludo\P03-Saludo\bin\Debug\Saludo.exe
+C:\Users\jorge\source\repos\P03-Saludo\P03-Saludo\bin\Debug\Saludo.pdb
+C:\Users\jorge\source\repos\P03-Saludo\P03-Saludo\obj\Debug\Saludo.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\P03-Saludo\P03-Saludo\obj\Debug\Saludo.exe
+C:\Users\jorge\source\repos\P03-Saludo\P03-Saludo\obj\Debug\Saludo.pdb
