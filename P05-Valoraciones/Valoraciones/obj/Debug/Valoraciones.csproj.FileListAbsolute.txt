@@ -1,0 +1,6 @@
+C:\Users\jorge\source\repos\P05-Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe.config
+C:\Users\jorge\source\repos\P05-Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe
+C:\Users\jorge\source\repos\P05-Valoraciones\Valoraciones\bin\Debug\Valoraciones.pdb
+C:\Users\jorge\source\repos\P05-Valoraciones\Valoraciones\obj\Debug\Valoraciones.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\P05-Valoraciones\Valoraciones\obj\Debug\Valoraciones.exe
+C:\Users\jorge\source\repos\P05-Valoraciones\Valoraciones\obj\Debug\Valoraciones.pdb

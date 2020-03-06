@@ -1,0 +1,6 @@
+C:\Users\jorge\source\repos\SpeakConsola\SpeakConsola\bin\Debug\SpeakConsola.exe.config
+C:\Users\jorge\source\repos\SpeakConsola\SpeakConsola\bin\Debug\SpeakConsola.exe
+C:\Users\jorge\source\repos\SpeakConsola\SpeakConsola\bin\Debug\SpeakConsola.pdb
+C:\Users\jorge\source\repos\SpeakConsola\SpeakConsola\obj\Debug\SpeakConsola.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\SpeakConsola\SpeakConsola\obj\Debug\SpeakConsola.exe
+C:\Users\jorge\source\repos\SpeakConsola\SpeakConsola\obj\Debug\SpeakConsola.pdb
